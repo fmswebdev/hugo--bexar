@@ -1,2 +1,2 @@
-# hugo--bexar
+# hugo-bexar
 hugo bexar (bexer) theme
